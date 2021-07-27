@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DesignationCategoryDef>
+    <defName>Power</defName>
+    <label>power</label>
+    <description>Electricity production, transmission, and management.</description>
+    <order>400</order>
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+      <li>ConduitDeconstruct.Designator_DeconstructPowerConduit</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+  
+</Defs>
