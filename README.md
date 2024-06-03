@@ -3,4 +3,4 @@ This mod was designed to help those players, like myself, that find it annoying 
 
 This mod also has support for almost all modded conduits as well.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M6YVC89)
+[![ko-fi](https://i.imgur.com/T1mW9TR.png)](https://ko-fi.com/M4M6YVC89)
