@@ -66,7 +66,8 @@ namespace ConduitDeconstruct
         public Designator_DeconstructPowerConduit() // Shows toolbar icon.
         {
             // It sets the label, icon, and hotkey for this designator.
-            this.defaultLabel = "Deconstruct Conduits";
+            this.defaultLabel = "DesignatorDeconstructPowerConduit".Translate();
+            this.defaultDesc = "DesignatorDeconstructPowerConduitDesc".Translate();
             this.icon = ContentFinder<Texture2D>.Get("ToolbarIcon/ConduitDeconstructIcon", true);
             this.hotKey = null;
         }
